@@ -1,0 +1,36 @@
+{
+    "translation": {
+        "globalNav_hello": "Hello",
+        "globalNav_supHeaderTitle": "For great deals, create a VIP card here",
+        "globalNav_collection": "COLLECTION",
+        "globalNav_bfdBasic": "BLACK FRIDAY - Basic",
+        "globalNav_bfdDesign": "Black Friday - Design",
+        "globalNav_new": "New",
+        "supHeader_cartTitle": "You have (*) product in cart",
+        "globalNav_authenTitle": "register/login",
+
+        "authen_wellcom": "Welcome Back!",
+        "authen_login": "To keep connected with us please login with your personal info",
+        "authen_signIn": "Sign In",
+        "authen_home": "Go Home",
+        "authen_hello": "Hello, Friend!",
+        "authen_info": "Enter your personal details and start journey with us",
+        "authen_signUp": "Sign Up",
+
+        "signIn": "Login",
+        "signIn_acc": "or you already have an account",
+        "signIn_password": "Forgot your password?",
+
+        "signUp": "Create Account",
+        "sign_acc": "or use your email to sign up",
+
+        "err_email": "Email already exists",
+        "err_userName": "User Name already exists",
+        "err_200": "Unexpected error",
+
+        "signUp_success" : "Sign Up Success!",
+        "signUp_howToSignIn": "Would you like to log in now?",
+        "singUp_yes": "Yes",
+        "signUp_no": "No"
+    }
+}

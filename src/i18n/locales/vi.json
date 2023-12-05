@@ -1,0 +1,37 @@
+{
+    "translation": {
+        "globalNav_hello": "Xin chào",
+        "globalNav_supHeaderTitle": "Để được mua giá tốt. Tạo thẻ VIP tại đây",
+        "globalNav_collection": "BỘ SƯU TẬP",
+        "globalNav_bfdBasic": "BLACK FRIDAY - Đơn Giản",
+        "globalNav_bfdDesign": "Black Friday - Thiết kế ",
+        "globalNav_new": "Mới",
+        "supHeader_cartTitle": "Bạn có (*) sản phẩm trong giỏ hàng",
+        "globalNav_authenTitle": "đăng ký / đăng nhập",
+        
+        "authen_wellcom": "Chào mừng trở lại!",
+        "authen_login": "Để duy trì kết nối với chúng tôi vui lòng đăng nhập bằng thông tin cá nhân của bạn",
+        "authen_signIn": "Đăng nhập",
+        "authen_home": "Trang chủ",
+        "authen_hello": "Chào bạn!",
+        "authen_info": "Nhập thông tin cá nhân của bạn và bắt đầu hành trình với chúng tôi",
+        "authen_signUp": "Đăng ký",
+
+        "signIn": "Đăng nhập",
+        "signIn_acc": "Bạn đã có tài khoản",
+        "signIn_password": "Bạn đã quên mật khẩu?",
+
+        "signUp": "Tạo Tài Khoản",
+        "sign_acc": "hoặc sử dụng email của bạn để đăng ký",
+
+        "err_email": "Email đã tồn tại",
+        "err_userName": "Tên người dùng đã tồn tại",
+        "err_200": "Lỗi không xác định",
+
+        "signUp_success" : "Đăng ký thành công!",
+        "signUp_howToSignIn": "Bạn có muốn đăng nhập ngay bây giờ không?",
+        "singUp_yes": "Có",
+        "signUp_no": "Không"
+
+    }
+}

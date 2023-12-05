@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "admin",
+      "email": "admin@gmail.com",
+      "emailConfirm": false,
+      "password": "12345",
+      "role": "admin",
+      "status": "active",
+      "createAt": "1663223",
+      "updateAt": "161123321",
+      "ipList": [
+        "12121212"
+      ]
+    },
+    {
+      "userName": "1062187573491",
+      "email": "lekimlan0205@gmail.com",
+      "password": "YaMieu_1.7955910315149714e+24",
+      "emailConfirm": true,
+      "role": "member",
+      "status": "active",
+      "createAt": "1701777975528",
+      "updateAt": "1701777975528",
+      "ipList": [],
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLXWPMwgs5SoRuYg1QjvKISTR5dlWXOTgl7Q-nWqLUxAqM=s96-c",
+      "id": 2
+    }
+  ]
+}
